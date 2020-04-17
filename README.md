@@ -1,4 +1,4 @@
-# Mops.Borwser extensions
+# Mops Borwser Extension
 
 ## Quick Start
 
