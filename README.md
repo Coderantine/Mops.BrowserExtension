@@ -1,4 +1,4 @@
-# Mops Borwser Extension
+# Mops Browser Extension
 
 ## Quick Start
 
